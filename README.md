@@ -42,8 +42,7 @@ git clone https://github.com/yourusername/MedicalQA_MedQuad.git
 cd MedicalQA_MedQuad
 ```
 
-### 2. Set Up Virtual Environment (optional but recommended)
-
+### 2. Set Up Virtual Environment 
 ```bash
 python -m venv venv
 venv/Scripts/activate  
